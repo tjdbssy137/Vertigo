@@ -1,5 +1,6 @@
 # Vertigo
 #시뮬레이션 #캐주얼 #전략 #운
+
 <img src = https://user-images.githubusercontent.com/65931605/202079493-76116fbd-7084-468d-af79-50ebdba34e6c.png height=85 width=200>
 
 #### 충전 중이라 움직일 수 없는 가정용 로봇이 택배를 수령하기 위해 고군분투하는 게임. 제한적인 움직임을 극복하고 택배를 집으면 게임 종료.
