@@ -1,4 +1,4 @@
-# Vertigo
+# Vertigo:video_game:
 #시뮬레이션 #캐주얼 #전략 #운
 
 <img src = https://user-images.githubusercontent.com/65931605/202079493-76116fbd-7084-468d-af79-50ebdba34e6c.png height=85 width=200>
@@ -24,7 +24,7 @@
 
 ---
 
-## 게임 조작법
+## 게임 조작법:mag_right:
 #### 카메라 이동
    + A, D 키로 시점 좌우 이동
    + 마우스 스크롤 버튼을 통한 앵글 확대 및 축소
@@ -34,5 +34,5 @@
   
 ---
 
-## 게임 영상
+## 게임 영상:movie_camera:
 [![Video Label](https://img.youtube.com/vi/oN3Dvd0QyCE/0.jpg)](https://youtu.be/oN3Dvd0QyCE)
