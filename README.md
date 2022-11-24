@@ -25,10 +25,10 @@
 ---
 
 ## :nut_and_bolt:게임 제작 과정:wrench:
-<img src = https://user-images.githubusercontent.com/65931605/203841634-4f26ee36-c334-4579-9176-c3583bcd163b.png height=100 width=240>
-<img src = https://user-images.githubusercontent.com/65931605/203841572-7527693f-6efb-4c82-bde7-f50f0651df8a.png height=100 width=240>
-<img src = https://user-images.githubusercontent.com/65931605/203841582-b37efe99-2815-4f98-af37-4c5814bfab1d.png height=100 width=240>
-<img src = https://user-images.githubusercontent.com/65931605/203841586-3b044446-837a-477b-816d-fbc5d047e3c8.png height=100 width=240>
+<img src = https://user-images.githubusercontent.com/65931605/203841634-4f26ee36-c334-4579-9176-c3583bcd163b.png height=200 width=340>
+<img src = https://user-images.githubusercontent.com/65931605/203841572-7527693f-6efb-4c82-bde7-f50f0651df8a.png height=200 width=340>
+<img src = https://user-images.githubusercontent.com/65931605/203841582-b37efe99-2815-4f98-af37-4c5814bfab1d.png height=200 width=340>
+<img src = https://user-images.githubusercontent.com/65931605/203841586-3b044446-837a-477b-816d-fbc5d047e3c8.png height=200 width=340>
 
 ---
 
